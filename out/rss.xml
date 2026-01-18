@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sequenzia</title>
+    <link>https://sequenzia.io</link>
+    <description>Stephen Sequenzia - ML/AI Engineer</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Jan 2026 00:01:44 GMT</lastBuildDate>
+    <atom:link href="https://sequenzia.io/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title><![CDATA[Demo Post 3]]></title>
+      <link>https://sequenzia.io/blog/demo-post-3/</link>
+      <guid isPermaLink="true">https://sequenzia.io/blog/demo-post-3/</guid>
+      <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></description>
+      <pubDate>Mon, 12 Sep 2022 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Demo Post 2]]></title>
+      <link>https://sequenzia.io/blog/demo-post-2/</link>
+      <guid isPermaLink="true">https://sequenzia.io/blog/demo-post-2/</guid>
+      <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></description>
+      <pubDate>Sun, 11 Sep 2022 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Demo Post 1]]></title>
+      <link>https://sequenzia.io/blog/demo-post-1/</link>
+      <guid isPermaLink="true">https://sequenzia.io/blog/demo-post-1/</guid>
+      <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></description>
+      <pubDate>Sat, 10 Sep 2022 04:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
